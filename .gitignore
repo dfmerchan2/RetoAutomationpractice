@@ -1,0 +1,10 @@
+.gradle
+.idea
+gradle
+target
+history
+gradlew.bat
+gradlew
+debug.log
+hs_err_pid9096.log
+build
